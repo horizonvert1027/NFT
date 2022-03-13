@@ -12,8 +12,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/React-Native-NFT-App.git`
-- You are now in the dev environment and you can play around
+
 
 ## Technologies
 
